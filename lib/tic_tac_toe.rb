@@ -35,3 +35,6 @@ class TicTacToe
   
   
 end
+
+ttt = TicTacToe.new
+ttt.play
