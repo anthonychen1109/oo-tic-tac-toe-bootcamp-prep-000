@@ -17,10 +17,6 @@ class TicTacToe
     @token = token
   end
   
-  def position_taken
-    
-  end
-  
   WIN_COMBINATIONS = [
     [0,1,2],
     [3,4,5],
@@ -31,8 +27,6 @@ class TicTacToe
     [0,4,8],
     [2,4,6]
   ]
-  
-  
   
 end
 
